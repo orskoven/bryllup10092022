@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b93691b-df17-462b-89a2-029f55db2e84/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/brullup10092022",
+    "appService.deploySubpath": "."
+}
